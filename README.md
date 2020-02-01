@@ -1,2 +1,1 @@
-# CS-7263-Text-Mining
-Text Mining
+Spec is not of the form "user/repo/ref", provided: "deresse1998".
